@@ -27,19 +27,16 @@
 
 ###
 
-<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
-
+<div align="left"> 
   <a href="https://www.instagram.com/ritikchaudhary2059?igsh=amg1Nm1oaHNnbWxu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /> 
   </a>
-  <a href="mailto:ritikchaudhary317@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  <a href="[https://instagram.com/YOUR_USERNAME](https://www.linkedin.com/in/ritikcdry?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> 
   </a>
-
-  <a href="https://www.linkedin.com/in/ritikcdry?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="mailto:ritikchaudhary317@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /> 
   </a>
-
 </div>
 
 
