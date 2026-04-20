@@ -1,18 +1,11 @@
 <h2 align="left">Hi 👋! My name is Ritik Chauudhary Tharu and I'm a Frontend developer, from Nepal</h2>
 
-###
-<table>
-  <tr>
-    <td>
-      <img height="150" width="400"
-        src="https://github-readme-stats.vercel.app/api?username=ritikcdry&show_icons=true&theme=dracula" />
-    </td>
-    <td>
-      <img height="150" width="400"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcdry&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div>
+  <p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=ritikcdry&show_icons=true&theme=dracula" />
+
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikcdry&layout=compact&theme=dracula" />
+</p>
 
 </div>
 
