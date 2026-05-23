@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritik Chauudhary Tharu and I'm a Frontend developer, from Nepal</h2>
+<h2 align="left">Hi 👋! My name is Ritik Chauudhary Tharu and I'm a Data Analyst, from Nepal</h2>
 
 <div>
   <p align="center">
